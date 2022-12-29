@@ -40,7 +40,7 @@ You'll want to get your home charging solution worked out at this point. There a
 | Level 2 | 240V    | 9-25 miles per hour of charging ([Rivian Wall Charger](https://rivian.com/gear-shop/p/wall-charger)) |
 | Level 3 | 480V    | 200-1000 miles per hour of charging (DC Fast Charger)                                                |
 
-If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Rivian Wall Charger will give you peace of mind. Many states offer a [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
+Level 3 isn't really a home charging option; it's just here for comparison. If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Rivian Wall Charger will give you peace of mind. Many states offer a [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
 
 Rivian has [a list of recommended installers](https://qmerit.com/ev/rivian/). Rivian partners with reputable local contractors to install the Wall Charger product in your home, but these contractors typically charge higher than average rates. Any experienced electrician should be able to do the work at a much lower price; it's a relatively simple job. You can also check [YouTube](https://www.youtube.com/watch?v=6o0sKqbg-a8&ab_channel=DoingitRuss) to do a DIY installation.
 
@@ -136,3 +136,5 @@ _Note: Pointing these out before you leave is important but if you only notice s
 After a year and a half of Rivian ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
 
 1. TBD
+
+[_Back to Top_](#rivian-prep)

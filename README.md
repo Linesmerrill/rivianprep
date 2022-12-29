@@ -24,7 +24,7 @@ You'll want to get your home charging solution worked out at this point. There a
 | ------- | ------- | ---------------------------------------------------------------------------------------------------- |
 | Level 1 | 120V    | 2-5 miles per hour of charging (regular outlet)                                                      |
 | Level 2 | 240V    | 9-25 miles per hour of charging ([Rivian Wall Charger](https://rivian.com/gear-shop/p/wall-charger)) |
-| Level 3 | 480V    | 200-1000 miles per hour of charging (Supercharging)                                                  |
+| Level 3 | 480V    | 200-1000 miles per hour of charging (DC Fast Charger)                                                |
 
 If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Rivian Wall Charger will give you peace of mind. Many states offer a [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
 

@@ -2,9 +2,23 @@
 
 This is a guide for buying, taking delivery of, and owning a Rivian R1T or R1S.
 
-Just looking for a delivery checklist? Here they are: [R1T](r1t_checklist.md) / [R1S](r1s_checklist.md).
+Just looking for a delivery checklist?
 
-If you find this guide helpful, I would really appreciate it if you let your friends know this exists. Feel free to share it and if there are mistakes open an issue and let's get it corrected.
+- Jump to the text files: [R1T](r1t_checklist.md) / [R1S](r1s_checklist.md).
+
+| Navigation                                                              |
+| ----------------------------------------------------------------------- |
+| [Configuration complete](#configuration-complete)                       |
+| [First Contact](#first-contact)                                         |
+| [30 days before your delivery date](#30-days-before-your-delivery-date) |
+| [10 days before your delivery date](#10-days-before-your-delivery-date) |
+| [7 days before your delivery date](#7-days-before-your-delivery-date)   |
+| [Anytime before delivery day](#anytime-before-delivery-day)             |
+| [Delivery day](#delivery-day)                                           |
+| [**Inspection Checklist**](#vehicle-inspection-checklist)               |
+| [Post-inspection](#post-inspection)                                     |
+| [After your first drive](#after-your-first-drive)                       |
+| [Appendix](#appendix)                                                   |
 
 ## Start: Configuration complete
 

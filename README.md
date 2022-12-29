@@ -20,7 +20,7 @@ Just looking for a delivery checklist?
 | [After your first drive](#after-your-first-drive)                       |
 | [Appendix](#appendix)                                                   |
 
-## Start: Configuration complete
+## Configuration complete
 
 Congratulations! You've configured your Rivian. Now comes the hardest part: waiting.
 
@@ -62,7 +62,7 @@ Check your Rivian account for an assigned Vehicle Identification Number (VIN) an
 
 If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
 
-## Anytime before delivery day, you should:
+## Anytime before delivery
 
 1.  Watch [R1T](https://www.youtube.com/watch?v=CYrunRy8hmw&ab_channel=DougDeMuro) or [R1S](https://www.youtube.com/watch?v=SJbZjJNq9NM&ab_channel=DougDeMuro) walkthrough videos. These are great at getting you started with the basics and will speed up your handover process.
 1.  Review the information supplied on the [Rivian Support pages](https://www.rivian.com/support), these pages go over details on financing, trade-ins, vehicle registration, insurance, warranty, etc.
